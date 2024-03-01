@@ -21,6 +21,7 @@ L'Analyseur ADN est une application Python développée avec la bibliothèque **
 ## Les videos de tests
 
 - **test 1:** génération de chaine d'ADN aléatoire et test de toutes les fonctionnalitées (sauf la matrice profil et la chaine consensus)
+  [Watch the Video](https://drive.google.com/file/d/10ppMwEa_9qwS9sSiwgMr4rCdRT3cZOHg/view?usp=drive_link)
 - **test 2:** lecture de plusieurs chaines d'ADN d'un fichier fasta et test de toutes les fonctionnalitées.
 - **test 3:** tests des cas particuliers:
   - le fichier fasta contien une seule chaine
@@ -33,9 +34,7 @@ L'Analyseur ADN est une application Python développée avec la bibliothèque **
 
 ## Contributeurs
 
-- Bouhraoua Yousra Hind 202031063660
-- Hamdi Pacha Aya 202031044810
-- Habes Rayan 202031042447
+- Bouhraoua Yousra Hind
 
 ## Utilisation
 
