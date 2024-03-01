@@ -23,11 +23,12 @@ L'Analyseur ADN est une application Python développée avec la bibliothèque **
 - **test 1:** génération de chaine d'ADN aléatoire et test de toutes les fonctionnalitées (sauf la matrice profil et la chaine consensus)
   [Watch the Video](https://drive.google.com/file/d/10ppMwEa_9qwS9sSiwgMr4rCdRT3cZOHg/view?usp=drive_link)
 - **test 2:** lecture de plusieurs chaines d'ADN d'un fichier fasta et test de toutes les fonctionnalitées.
-- **test 3:** tests des cas particuliers:
+  [Watch the Video](https://drive.google.com/file/d/18Sk7ESid24_LbkWYTmAUlRcetAZLPfXv/view?usp=drive_link)
+- **test 3:** tests des cas particuliers:[Watch the Video](https://drive.google.com/file/d/1ypELhE7Hktf3W9guPoUob6_Q7vZcs-z3/view?usp=drive_link)
   - le fichier fasta contien une seule chaine
   - le motif et en minuscule
   - le motif n'est pas valid (trop long ou contient d'autres caractéres)
-- **test 4:**d'autres tests particuliers:
+- **test 4:**d'autres tests particuliers:[Watch the Video](https://drive.google.com/file/d/1XA-IXjM6GX2mOf4RJyt7TPRmIpmbZ50t/view?usp=drive_link)
   - le fichier n'est pas de type FASTA
   - le fichier fasta contien une chaine fausse(invalide)
   - le fichier fasta contien des chianes de differentes tailles(on peut pas avoir la matrice profil et la chaine consensus)
