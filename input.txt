@@ -1,0 +1,14 @@
+>Rosalind_1
+ATCCAGCTA
+>Rosalind_2
+GGGCAACTG
+>Rosalind_3
+ATGGATCTT
+>Rosalind_4
+AAGCAACCC
+>Rosalind_5
+TTGGAACTALQ
+>Rosalind_6
+ATGCCATTAAAA
+>Rosalind_7
+ATGGCACTG
