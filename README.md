@@ -28,7 +28,7 @@ L'Analyseur ADN est une application Python développée avec la bibliothèque **
   - le fichier fasta contien une seule chaine
   - le motif et en minuscule
   - le motif n'est pas valid (trop long ou contient d'autres caractéres)
-- **test 4:**d'autres tests particuliers:[Watch the Video](https://drive.google.com/file/d/1XA-IXjM6GX2mOf4RJyt7TPRmIpmbZ50t/view?usp=drive_link)
+- **test 4:** d'autres tests particuliers:[Watch the Video](https://drive.google.com/file/d/1XA-IXjM6GX2mOf4RJyt7TPRmIpmbZ50t/view?usp=drive_link)
   - le fichier n'est pas de type FASTA
   - le fichier fasta contien une chaine fausse(invalide)
   - le fichier fasta contien des chianes de differentes tailles(on peut pas avoir la matrice profil et la chaine consensus)
